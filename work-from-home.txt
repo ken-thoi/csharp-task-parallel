@@ -1,0 +1,163 @@
+﻿https://202.74.56.249/sslvpn/Login/Login
+https://118.70.213.227
+ZRG6lst7yQ
+
+pass person: ,PU7KWuq.Xb6P3n
+
+PRODUCTION
+WEB/API		DATABASE (phx_conf)	ETL
+117 (external)	114			116 (115)	
+101 (internal)	118			100 (119)
+
+ip_remote: 10.36.23.68
+
+226-tfs
+http://10.37.16.226:86/
+xuandt10/WDvSe56Xj4pB/Wuq.Xb6P3n
+
+IT Support (0916195001)
+10.39.159.185 - VNC
+Account local administrator
+HON-RMD-PC29575\xuand/
+QwerAsdf_$04
+QwerAsdf_$Jul_19
+QwerAsdf_$Oct_19
+PoiuLkjh_$Dec_27
+DoAnh_$8080
+KenT_#8080
+DoAnh_&9Ken
+HJKLx55_
+ZXCVBNM0_a
+QaWsEdRf_@0
+_MlNkBjVh3#
+---- adms
+
+SAP_PORTAL
+https://ep-prod-app.vpbank.com.vn:50101/irj/portal 
+xuandt10/QwerAsdf_$Jul1/1983#Vpbank/PoiuLkjh_$A8/LkjhPoiu_$8888/MnbvLkjh_$8080/ZxcvAsdf_$8080/kKKl88*_/P_hhk90_s@/Lsj_#$s90as
+
+IT
+https://it-servicedesk.vpbank.com.vn/CAisd/SDM
+
+Database local
+Servername: HON-RMD-PC29575 (localhost)
+sa/Aa_1@34567890
+
+Build_Auto TFS
+Con_name: Gen_Connection_xuand
+http://hon-rmd-pc00461:9000
+xuandt10/Q123456789#0
+/d:sonar.scm.enabled=true /d:sonar.scm.provider=tfvc /d:sonar.tfvc.username=xuandt10 /d:sonar.tfvc.password.secured= PoiuLkjh_$Dec_27
+
+Basel 2 database: (dev_user/12345a@)
+10.39.149.49,7000  = 10.36.96.114 = 10.39.149.91,7000 (CR Database - internal)
+10.39.149.49,7001  = 10.36.96.115 = 10.39.149.91,7001 (dev envi)
+10.39.149.49,7002  = 10.36.96.116 = 10.39.149.91,7002 (Data Model) <> rdw_etl/Vpbank#basel
+10.39.149.49,7010  = 10.36.96.118 = 10.39.149.91,7010 (CR database - SBV)
+10.39.149.49,7011  = 10.36.96.119
+10.39.149.49,7012  = 10.36.96.100  (windows authen)
+
+10.37.16.226\test
+dev_user		Test#irmd
+view_user          	View@irmd
+
+Remote-API
+10.39.149.91:86
+vpbank\phxadmin/Vpbank!irmd
+.\administrator/Vpbank#basel
+
+Remote-226
+10.37.16.226:6688/hp3710s6-phx-ua\administrator/abc1234@
+SISDB/dev_user/12345a@
+Integration Services Catalog password: 12345a@
+
+DevExpress
+hant82@vpbank.com.vn/Aa_1@34567890
+https://app.moqups.com/xuandt10@vpbank.com.vn/Aa_1@34567890hant
+
+Visual 2017 Professional:
+KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+
+Visual 2019 Professional:
+	NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
+Visual 2019 Enterprise:
+	BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
+	2YNKW-D76QV-VW7H8-TY8KX-6CR9R
+
+Intellij-key
+QYYBAC9D3J-eyJsaWNlbnNlSWQiOiJRWVlCQUM5RDNKIiwibGljZW5zZWVOYW1lIjoi6LaF57qnIOeoi+W6j+WRmCIsImFzc2lnbmVlTmFtZSI6IiIsImFzc2lnbmVlRW1haWwiOiIiLCJsaWNlbnNlUmVzdHJpY3Rpb24iOiIiLCJjaGVja0NvbmN1cnJlbnRVc2UiOmZhbHNlLCJwcm9kdWN0cyI6W3siY29kZSI6IklJIiwiZmFsbGJhY2tEYXRlIjoiMjAyMC0wMS0wNCIsInBhaWRVcFRvIjoiMjAyMS0wMS0wMyJ9LHsiY29kZSI6IkFDIiwiZmFsbGJhY2tEYXRlIjoiMjAyMC0wMS0wNCIsInBhaWRVcFRvIjoiMjAyMS0wMS0wMyJ9LHsiY29kZSI6IkRQTiIsImZhbGxiYWNrRGF0ZSI6IjIwMjAtMDEtMDQiLCJwYWlkVXBUbyI6IjIwMjEtMDEtMDMifSx7ImNvZGUiOiJQUyIsImZhbGxiYWNrRGF0ZSI6IjIwMjAtMDEtMDQiLCJwYWlkVXBUbyI6IjIwMjEtMDEtMDMifSx7ImNvZGUiOiJHTyIsImZhbGxiYWNrRGF0ZSI6IjIwMjAtMDEtMDQiLCJwYWlkVXBUbyI6IjIwMjEtMDEtMDMifSx7ImNvZGUiOiJETSIsImZhbGxiYWNrRGF0ZSI6IjIwMjAtMDEtMDQiLCJwYWlkVXBUbyI6IjIwMjEtMDEtMDMifSx7ImNvZGUiOiJDTCIsImZhbGxiYWNrRGF0ZSI6IjIwMjAtMDEtMDQiLCJwYWlkVXBUbyI6IjIwMjEtMDEtMDMifSx7ImNvZGUiOiJSUzAiLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiUkMiLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiUkQiLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiUEMiLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiUk0iLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiV1MiLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiREIiLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiREMiLCJmYWxsYmFja0RhdGUiOiIyMDIwLTAxLTA0IiwicGFpZFVwVG8iOiIyMDIxLTAxLTAzIn0seyJjb2RlIjoiUlNVIiwiZmFsbGJhY2tEYXRlIjoiMjAyMC0wMS0wNCIsInBhaWRVcFRvIjoiMjAyMS0wMS0wMyJ9XSwiaGFzaCI6IjE2MDgwOTA5LzAiLCJncmFjZVBlcmlvZERheXMiOjcsImF1dG9Qcm9sb25nYXRlZCI6ZmFsc2UsImlzQXV0b1Byb2xvbmdhdGVkIjpmYWxzZX0=-I7c5mu4hUCMxcldrwZEJMaT+qkrzrF1bjJi0i5QHcrRxk2LO0jqzUe2fBOUR4L+x+7n6kCwAoBBODm9wXst8dWLXdq179EtjU3rfJENr1wXGgtef//FNow+Id5iRufJ4W+p+3s5959GSFibl35YtbELELuCUH2IbCRly0PUBjitgA0r2y+9jV5YD/dmrd/p4C87MccC74NxtQfRdeUEGx87vnhsqTFH/sP4C2VljSo/F/Ft9JqsSlGfwSKjzU8BreYt1QleosdMnMK7a+fkfxh7n5zg4DskdVlNbfe6jvYgMVE16DMXd6F1Zhwq+lrmewJA2jPToc+H5304rcJfa9w==-MIIElTCCAn2gAwIBAgIBCTANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBMB4XDTE4MTEwMTEyMjk0NloXDTIwMTEwMjEyMjk0NlowaDELMAkGA1UEBhMCQ1oxDjAMBgNVBAgMBU51c2xlMQ8wDQYDVQQHDAZQcmFndWUxGTAXBgNVBAoMEEpldEJyYWlucyBzLnIuby4xHTAbBgNVBAMMFHByb2QzeS1mcm9tLTIwMTgxMTAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxcQkq+zdxlR2mmRYBPzGbUNdMN6OaXiXzxIWtMEkrJMO/5oUfQJbLLuMSMK0QHFmaI37WShyxZcfRCidwXjot4zmNBKnlyHodDij/78TmVqFl8nOeD5+07B8VEaIu7c3E1N+e1doC6wht4I4+IEmtsPAdoaj5WCQVQbrI8KeT8M9VcBIWX7fD0fhexfg3ZRt0xqwMcXGNp3DdJHiO0rCdU+Itv7EmtnSVq9jBG1usMSFvMowR25mju2JcPFp1+I4ZI+FqgR8gyG8oiNDyNEoAbsR3lOpI7grUYSvkB/xVy/VoklPCK2h0f0GJxFjnye8NT1PAywoyl7RmiAVRE/EKwIDAQABo4GZMIGWMAkGA1UdEwQCMAAwHQYDVR0OBBYEFGEpG9oZGcfLMGNBkY7SgHiMGgTcMEgGA1UdIwRBMD+AFKOetkhnQhI2Qb1t4Lm0oFKLl/GzoRykGjAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBggkA0myxg7KDeeEwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0GCSqGSIb3DQEBCwUAA4ICAQAF8uc+YJOHHwOFcPzmbjcxNDuGoOUIP+2h1R75Lecswb7ru2LWWSUMtXVKQzChLNPn/72W0k+oI056tgiwuG7M49LXp4zQVlQnFmWU1wwGvVhq5R63Rpjx1zjGUhcXgayu7+9zMUW596Lbomsg8qVve6euqsrFicYkIIuUu4zYPndJwfe0YkS5nY72SHnNdbPhEnN8wcB2Kz+OIG0lih3yz5EqFhld03bGp222ZQCIghCTVL6QBNadGsiN/lWLl4JdR3lJkZzlpFdiHijoVRdWeSWqM4y0t23c92HXKrgppoSV18XMxrWVdoSM3nuMHwxGhFyde05OdDtLpCv+jlWf5REAHHA201pAU6bJSZINyHDUTB+Beo28rRXSwSh3OUIvYwKNVeoBY+KwOJ7WnuTCUq1meE6GkKc4D/cXmgpOyW/1SmBz3XjVIi/zprZ0zf3qH5mkphtg6ksjKgKjmx1cXfZAAX6wcDBNaCL+Ortep1Dh8xDUbqbBVNBL4jbiL3i3xsfNiyJgaZ5sX7i8tmStEpLbPwvHcByuf59qJhV/bZOl8KqJBETCDJcY6O2aqhTUy+9x93ThKs1GKrRPePrWPluud7ttlgtRveit/pcBrnQcXOl1rHq7ByB8CFAxNotRUYL9IF5n3wJOgkPojMy6jetQA5Ogc8Sm7RG6vg1yow==
+
+
+Danh sách port: 
+web: 80, 443
+web cho môi trường dev/test: 81, 84
+api cho môi trường dev/test:  8097, 8096, 8888, 1111
+elasticsearch, 9200, 9300
+rabbitmq cho dev/test: 5672, 15672, 
+kibana cho dev/test 8099
+remote server test: 90
+sql server cho dev/test: 1433, UDP-1434, 86, 21, 22, 50546, 49914
+
+-- .NET CORE API port
+IPhoenix_servive DEV: 5500
+IPhoenix_servive TEST: 5501
+IPhoenix_servive UAT: 5502
+
+User_Service: 5555
+
+
+
+
+{
+  "business_Date": "2020-08-05",
+  "in_Segment": "RB",
+  "in_Os_Company": "All"
+}
+
+2020-07-02
+
+2867904
+2973708
+3655090
+2657619
+
+'executor_id^"VPBANK\tuanna52"|simulation_id^"1"|customer_id^"1234"'
+private String status;
+private String additionalParam;
+
+http://localhost:31471/Modules/Statics/PSPRP?additionalParams=executor_id^%22xuandt%22|simulation_id^%226%22&Scenario_ID=Simulation&Business_Date=2020-07-02&Approach=SBV&Entity_Code=VPBANK&Version_ID=0&rptType=OCE&Customer_ID=2973708
+
+#########################################################################################################################################################################################################################################
+- .net core 3.1
+- Visual studio Professional 2017, 2019
+	+ Conveyor by Keyoti
+	+ ResXManager
+	+ SQL Search
+	+ .net core 3.x rest api temp
+- DevExpress 19.2.7
+- SQL Server Data Tools
+- SQL Server Management Studio 18.4
+- Microsoft Teams
+- Microsoft Visio professional 2013
+- notepad++
+
+- Chrome
+	+ ModHeader
+	+ google Translate
+	+ jsonview
+
+- Git
+- Java SE devlopment 
+- Java SDK 8 -> java version "1.8.0_161"
+- IntelliJ IDEA 2019.1.2
+- Postman
+
+- Node Js
+- Erlang OTP 21
+- RabbitMQ server
+- Redis on Windows
+- WinRar
+- VS Code
+	+ extension
+
+
